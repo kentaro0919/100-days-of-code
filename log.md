@@ -10,6 +10,16 @@
 
 **Today's Progress**: with a lot's of googling can pass "Write your first view" test with django manage test
 
+### Day 2: October 10, 2017
+
+**Thoughts:** As Django 2 is comming, after finnishing the tutorial, I think I can refactor to Django 2.. ;>
+
+**Today's Progress**: refactor the test to test template. add model Question and Choice test , still giving a expected RED.
+
+**Plans** TODO: Move to Django 2
+
+
+
 <!-- 
 # 100 Days Of Code - Log
 ### Day 0: February 30, 2016 (Example 1)
