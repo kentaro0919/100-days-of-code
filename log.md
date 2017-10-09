@@ -7,7 +7,9 @@
 ### Day 1: October 9, 2017
 
 **Thoughts:** Selenium is not working but could test with Safari.
+
 **Today's Progress**: with a lot's of googling can pass "Write your first view" test with django manage test
+
 <!-- 
 # 100 Days Of Code - Log
 ### Day 0: February 30, 2016 (Example 1)
