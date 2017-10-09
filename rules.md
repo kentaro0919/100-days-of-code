@@ -4,8 +4,11 @@
 ### *I will code for at least an harf hour every day for the next 100 days.*
 
 #### Start Date
-Octuober 9th, 2017. [PUT YOUR DATE HERE]
+Octuober 9th, 2017.
 
+## Additional Rules
+1. I will tweet about my progress every day
+2. If I code at work, that time won't count towards the challenge.
 
 <!--
 ## Additional Rules
