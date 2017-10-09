@@ -16,7 +16,10 @@
 
 **Today's Progress**: refactor the test to test template. add model Question and Choice test , still giving a expected RED.
 
-**Plans** TODO: Move to Django 2
+**Plans** TODO: 
+
+- Push to github
+- Move to Django 2
 
 
 
