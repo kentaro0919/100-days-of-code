@@ -19,7 +19,7 @@
 
 ### Day 2: October 10, 2017
 
-[Django tutorial](https://github.com/kentaro0919/polls_for_100-days-of-code)
+[Django tutorial](https://github.com/kentaro0919/polls_for_100-days-of-code) 
 
 **Thoughts:**
 
@@ -28,7 +28,10 @@
 **Plans** TODO: 
 
 
-~~- Push to github ~~  (done on 2017-10-11)
+~~- Push to github ~~
+
+(done on 2017-10-11)
+
 - Move to Django 2
 
 
