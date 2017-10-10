@@ -16,23 +16,22 @@
 
 **Today's Progress**: refactor the test to test template. add model Question and Choice test , still giving a expected RED.
 
+### Day 3: October 11, 2017
 
-### Day 2: October 10, 2017
+**Thoughts:** 
+as __str__ return class 'polls.models.Question' can not be tested with 
+  self.assertIn(str(first_saved_item,) "What's new?")
+  self.assertEqual(second_saved_item, "<Question: What's new?>")
+and have idea how to test was_published_recently
 
-[Django tutorial](https://github.com/kentaro0919/polls_for_100-days-of-code) 
+**Today's Progress**:  push to github [Django tutorial](https://github.com/kentaro0919/polls_for_100-days-of-code) 
+add test for pub_date and pass 
 
-**Thoughts:**
+**Plans**
+TODO: 
+  - test was_published_recently
+  - Move to Django 2
 
-**Today's Progress**:
-
-**Plans** TODO: 
-
-
-~~-Push to github~~
-
-(done on 2017-10-11)
-
-- Move to Django 2
 
 
 
