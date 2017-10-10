@@ -17,6 +17,7 @@
 **Today's Progress**: refactor the test to test template. add model Question and Choice test , still giving a expected RED.
 
 **Plans** TODO: 
+[Django tutorial](https://github.com/kentaro0919/polls_for_100-days-of-code)
 
 - Push to github
 - Move to Django 2
