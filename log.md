@@ -28,7 +28,7 @@
 **Plans** TODO: 
 
 
-~~- Push to github ~~
+~~-Push to github~~
 
 (done on 2017-10-11)
 
