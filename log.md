@@ -4,17 +4,20 @@
 
 **Thoughts:**  As I am to using test in my code. First I will try to write the Django tutorial with test first using purest and hypothesis
 
+
 ### Day 1: October 9, 2017
 
 **Thoughts:** Selenium is not working but could test with Safari.
 
 **Today's Progress**: with a lot's of googling can pass "Write your first view" test with django manage test
 
+
 ### Day 2: October 10, 2017
 
 **Thoughts:** As Django 2 is comming, after finnishing the tutorial, I think I can refactor to Django 2.. ;>
 
 **Today's Progress**: refactor the test to test template. add model Question and Choice test , still giving a expected RED.
+
 
 ### Day 3: October 11, 2017
 
@@ -27,7 +30,9 @@ and have idea how to test was_published_recently
 **Today's Progress**:  push to github [Django tutorial](https://github.com/kentaro0919/polls_for_100-days-of-code) 
 add test for pub_date and pass 
 
-**Plans**
+
+### Plans ###
+
 TODO: 
   - test was_published_recently
   - Move to Django 2
