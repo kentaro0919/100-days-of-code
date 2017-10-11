@@ -30,6 +30,11 @@ and have idea how to test was_published_recently
 **Today's Progress**:  push to github [Django tutorial](https://github.com/kentaro0919/polls_for_100-days-of-code) 
 add test for pub_date and pass 
 
+### Day 4: October 12, 2017
+
+**Thoughts:** as admin is handle by django I will not test.
+
+**Today's Progress**: make a question with past date made able to "test was_published_recently" 
 
 ### Plans ###
 
