@@ -2,21 +2,21 @@
 
 ### Day 0: October 8, 2017
 
-**Thoughts:**  As I am to using test in my code. First I will try to write the Django tutorial with test first using purest and hypothesis
+**Thoughts:**  As I am to using the test in my code. First I will try to write the Django tutorial with test first using purest and hypothesis
 
 
 ### Day 1: October 9, 2017
 
 **Thoughts:** Selenium is not working but could test with Safari.
 
-**Today's Progress**: with a lot's of googling can pass "Write your first view" test with django manage test
+**Today's Progress**: with a lot's of googling can pass "Write your first view" test with Django manage test
 
 
 ### Day 2: October 10, 2017
 
-**Thoughts:** As Django 2 is comming, after finnishing the tutorial, I think I can refactor to Django 2.. ;>
+**Thoughts:** As Django 2 is coming, after finishing the tutorial, I think I can refactor to Django 2.. ;>
 
-**Today's Progress**: refactor the test to test template. add model Question and Choice test , still giving a expected RED.
+**Today's Progress**: refactor the test to test template. add model Question and Choice test, still giving an expected RED.
 
 
 ### Day 3: October 11, 2017
@@ -32,9 +32,15 @@ add test for pub_date and pass
 
 ### Day 4: October 12, 2017
 
-**Thoughts:** as admin is handle by django I will not test.
+**Thoughts:** as admin is handled by Django I will not test.
 
 **Today's Progress**: make a question with past date made able to "test was_published_recently" 
+
+### Day 4: October 12, 2017
+
+**Thoughts:** 6 Question return just 5 so new test has to be written
+
+**Today's Progress**: Refactoring functional test and test in case of 0 Question and 1 Question
 
 ### Plans ###
 
