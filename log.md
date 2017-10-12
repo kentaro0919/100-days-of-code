@@ -36,7 +36,7 @@ add test for pub_date and pass
 
 **Today's Progress**: make a question with past date made able to "test was_published_recently" 
 
-### Day 4: October 12, 2017
+### Day 5: October 13, 2017
 
 **Thoughts:** 6 Question return just 5 so new test has to be written
 
