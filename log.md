@@ -51,5 +51,6 @@ add test for pub_date and pass
 ### Plans ###
 
 TODO: 
+  - add cole links to past days
 
   - Move to Django 2
