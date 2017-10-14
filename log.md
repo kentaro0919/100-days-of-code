@@ -30,11 +30,13 @@ and have idea how to test was_published_recently
 **Today's Progress**:  push to github [Django tutorial](https://github.com/kentaro0919/polls_for_100-days-of-code) 
 add test for pub_date and pass 
 
+
 ### Day 4: October 12, 2017  [code](https://github.com/kentaro0919/polls_for_100-days-of-code/commits/master)
 
 **Thoughts:** as admin is handled by Django I will not test.
 
 **Today's Progress**: make a question with past date made able to "test was_published_recently" 
+
 
 ### Day 5: October 13, 2017  [code](https://github.com/kentaro0919/polls_for_100-days-of-code/commits/master)
 
@@ -42,11 +44,14 @@ add test for pub_date and pass
 
 **Today's Progress**: Refactoring functional test and test in case of 0 Question and 1 Question
 
+
 ### Day 6: October 14, 2017 [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/d4bd976a8d25612708fd2ac7a9ea374c43b8f04e)
 
 **Thoughts:** /polls/nonexistingnumber/ was 404 but /polls/nonexistingnumber was 301. Django makes the redirect
 
 **Today's Progress**: test 6 Question return 5. test 404
+
+
 
 ### Plans ###
 
