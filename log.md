@@ -56,7 +56,7 @@ add test for pub_date and pass
 
 **Thoughts:** not testing links in index, some selenium test may work...
 
-**Today's Progress**: Add test to selenium. Find how to add dinamic id. Done with tutorial03
+**Today's Progress**: Add test to selenium. Find how to add a dynamic id. Done with tutorial03
 
 
 ### Plans ###
