@@ -52,6 +52,12 @@ add test for pub_date and pass
 **Today's Progress**: test 6 Question return 5. test 404
 
 
+### Day 7: October 15, 2017 [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/88a390df7e4104cd0b009682895a4c5b53b5792c)
+
+**Thoughts:** not testing links in index, some selenium test may work...
+
+**Today's Progress**: Add test to selenium. Find how to add dinamic id. Done with tutorial03
+
 
 ### Plans ###
 
