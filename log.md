@@ -59,6 +59,12 @@ add test for pub_date and pass
 **Today's Progress**: Add test to selenium. Find how to add a dynamic id. Done with tutorial03
 
 
+### Day 8: October 16, 2017 [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/897b0b700069c4ae83aa84f579112affef5fc9d0)
+
+**Thoughts:** as 04 is BIG have to do some clean-up.
+
+**Today's Progress**: Setup for tutorial04
+
 ### Plans ###
 
 TODO: 
