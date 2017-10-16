@@ -5,21 +5,21 @@
 **Thoughts:**  As I am to using the test in my code. First I will try to write the Django tutorial with test first using purest and hypothesis
 
 
-### Day 1: October 9, 2017  [code](https://github.com/kentaro0919/polls_for_100-days-of-code/commits/master)
+### Day 1: October 9, 2017  [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commits/master)
 
 **Thoughts:** Selenium is not working but could test with Safari.
 
 **Today's Progress**: with a lot's of googling can pass "Write your first view" test with Django manage test
 
 
-### Day 2: October 10, 2017  [code](https://github.com/kentaro0919/polls_for_100-days-of-code/commits/master)
+### Day 2: October 10, 2017  [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commits/master)
 
 **Thoughts:** As Django 2 is coming, after finishing the tutorial, I think I can refactor to Django 2.. ;>
 
 **Today's Progress**: refactor the test to test template. add model Question and Choice test, still giving an expected RED.
 
 
-### Day 3: October 11, 2017  [code](https://github.com/kentaro0919/polls_for_100-days-of-code/commits/master)
+### Day 3: October 11, 2017  [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commits/master)
 
 **Thoughts:** 
 as __str__ return class 'polls.models.Question' can not be tested with 
@@ -31,14 +31,14 @@ and have idea how to test was_published_recently
 add test for pub_date and pass 
 
 
-### Day 4: October 12, 2017  [code](https://github.com/kentaro0919/polls_for_100-days-of-code/commits/master)
+### Day 4: October 12, 2017  [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commits/master)
 
 **Thoughts:** as admin is handled by Django I will not test.
 
 **Today's Progress**: make a question with past date made able to "test was_published_recently" 
 
 
-### Day 5: October 13, 2017  [code](https://github.com/kentaro0919/polls_for_100-days-of-code/commits/master)
+### Day 5: October 13, 2017  [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commits/master)
 
 **Thoughts:** 6 Question return just 5 so new test has to be written
 
@@ -66,7 +66,7 @@ add test for pub_date and pass
 **Today's Progress**: Setup for tutorial04
 
 
-### Day 9: October 17, 2017 [cod](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/86b15e672298981f41b40d54b834727b07cc07c4)
+### Day 9: October 17, 2017 [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/86b15e672298981f41b40d54b834727b07cc07c4)
 
 **Thoufhts:** python __init__ works fine! packege is great!!.
 
