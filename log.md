@@ -65,6 +65,12 @@ add test for pub_date and pass
 
 **Today's Progress**: Setup for tutorial04
 
+
+### Day 9: October 17, 2017 [cod](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/86b15e672298981f41b40d54b834727b07cc07c4)
+
+**Thoufhts:** python __init__ works fine! packege is great!!.
+
+**Todays's Progress** Clean Up the test part II 
 ### Plans ###
 
 TODO: 
