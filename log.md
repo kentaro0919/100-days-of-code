@@ -70,6 +70,13 @@ add test for pub_date and pass
 
 **Thoufhts:** python __init__ works fine! packege is great!!.
 
+
+### Day 10: October 18, 2017 [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/c9de5b02af5a41f46480ebbff15f7a27f686b860)
+
+**Thoufhts:** testiong POST is not working...
+
+**Today's Progress**: Done moving view test to different file. view and model has different test file now.
+
 **Todays's Progress** Clean Up the test part II 
 ### Plans ###
 
