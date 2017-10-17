@@ -75,7 +75,7 @@ add test for pub_date and pass
 
 **Thoufhts:** testiong POST is not working...
 
-**Today's Progress**: Done moving view test to different file. view and model has different test file now.
+**Today's Progress**: Done moving view test to a different file. view and model have different test file now.
 
 **Todays's Progress** Clean Up the test part II 
 ### Plans ###
