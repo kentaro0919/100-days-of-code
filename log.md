@@ -75,18 +75,21 @@ add test for pub_date and pass
 
 **Thoufhts:** testiong POST is not working...
 
-**Today's Progress**: Done moving view test to a different file. view and model have different test file now.
-
-**Todays's Progress** Clean Up the test part II 
+**Today's Progress**: Done moving view test to a different file. view and model have different test file now. Clean Up the test part II 
 
 
 ### Day 11: October 19, 2017 [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/df9ed9f39fbaf49b90a33021df73f78bad3bfaff)
 
-**Thoufhts:** testiong POST is not working...
-
-**Today's Progress**: VS code shows docstring, greate
+**Thoufhts:** testiong POST is not working... VS code shows docstring, greate
 
 **Todays's Progress** The testing POST is working. Moving to generic views "expected RED" 
+
+
+### Day 12: October 20, 2017 [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/d1b25cb35549e5d18acf6af8d10d5155082df8ef)
+
+**Thoufhts:** 
+
+**Todays's Progress** Green and done with tutorial05 
 
 
 ### Plans ###
