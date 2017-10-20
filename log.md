@@ -92,6 +92,13 @@ add test for pub_date and pass
 **Todays's Progress** Green and done with tutorial05 
 
 
+### Day 13: October 21, 2017 [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/25d75b897ea3472f4d427c71391b80ef34aceca6)
+
+**Thoufhts:**  No idea how to test CSS.
+
+**Todays's Progress** Done with tutorial06
+
+
 ### Plans ###
 
 TODO: 
