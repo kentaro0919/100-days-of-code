@@ -105,3 +105,5 @@ TODO:
   - commit every time non test code is changed.
 
   - Move to Django 2
+  
+  - [short URL](https://goo.gl/e6zX3N)
