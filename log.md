@@ -99,6 +99,13 @@ add test for pub_date and pass
 **Todays's Progress** Done with tutorial06
 
 
+### Day 14: October 22, 2017 [codes](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/10df42afec9e6ba8090a31e36956bc5e074dca36)
+
+**Thoufhts:**  
+
+**Todays's Progress** Done with tutorial07
+
+
 ### Plans ###
 
 TODO: 
