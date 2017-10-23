@@ -106,11 +106,16 @@ add test for pub_date and pass
 **Todays's Progress** Done with tutorial07
 
 
+### Day 15: October 23, 2017 [code](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/231b966bc8f8175d6808ca5e489601c9b1d3fa1f)
+
+**Thoufhts:**  
+
+**Todays's Progress** Update Djangot to 2.0 test is working! move selenium test to FireFox.
+
+
 ### Plans ###
 
 TODO: 
   - commit every time non test code is changed.
-
-  - Move to Django 2
   
   - [short URL](https://goo.gl/e6zX3N)
