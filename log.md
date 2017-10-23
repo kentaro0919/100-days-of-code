@@ -110,7 +110,7 @@ add test for pub_date and pass
 
 **Thoufhts:**  
 
-**Todays's Progress** Update Djangot to 2.0 test is working! move selenium test to FireFox.
+**Todays's Progress** Update Django to 2.0 test is working! move selenium test to FireFox.
 
 
 ### Plans ###
