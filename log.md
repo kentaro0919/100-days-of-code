@@ -117,7 +117,7 @@ add test for pub_date and pass
 
 **Thoufhts:**  
 
-**Todays's Progress** try to use lamda in python.
+**Todays's Progress** try to use lambda in python.
 
 ### Plans ###
 
