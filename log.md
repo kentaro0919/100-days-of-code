@@ -115,13 +115,20 @@ add test for pub_date and pass
 
 ### Day 15: October 23, 2017 No code
 
-**Thoufhts:**  
-
 **Todays's Progress** try to use lambda in python.
+
+
+### Day 16: October 24, 2017 [code](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/4c3068afb66b48091807191dc770713e064bd3a3)
+
+**Thoufhts:**  function name in test must have "test"!
+
+**Todays's Progress** Write a user story and start an app with a RED test.
+
 
 ### Plans ###
 
 TODO: 
   - commit every time non test code is changed.
+  - Add the user story in functional test.
   
   - [short URL](https://goo.gl/e6zX3N)
