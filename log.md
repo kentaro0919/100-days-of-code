@@ -113,6 +113,12 @@ add test for pub_date and pass
 **Todays's Progress** Update Django to 2.0 test is working! move selenium test to FireFox.
 
 
+### Day 15: October 23, 2017 No code
+
+**Thoufhts:**  
+
+**Todays's Progress** try to use lamda in python.
+
 ### Plans ###
 
 TODO: 
