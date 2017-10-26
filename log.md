@@ -125,6 +125,11 @@ add test for pub_date and pass
 **Todays's Progress** Write a user story and start an app with a RED test.
 
 
+### Day 17: October 25, 2017 No Code
+
+**Today's progress make a lot a of test code with [requests](http://docs.python-requests.org/en/master/)
+
+
 ### Plans ###
 
 TODO: 
