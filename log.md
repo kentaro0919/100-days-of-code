@@ -132,6 +132,13 @@ add test for pub_date and pass
 **Todays's Progress** progress make a lot a of test code with [requests](http://docs.python-requests.org/en/master/)
 
 
+### Day 18: October 25, 2017 [code](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/9111a99bf6ba0afda4493908cd877beaf2c6c5a9)
+
+**Thoufhts:** how can inline has inlene in admin??
+
+**Todays's Progress** add models to recipe app
+
+
 ### Plans ###
 
 TODO: 
