@@ -132,11 +132,35 @@ add test for pub_date and pass
 **Todays's Progress** progress make a lot a of test code with [requests](http://docs.python-requests.org/en/master/)
 
 
-### Day 18: October 25, 2017 [code](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/9111a99bf6ba0afda4493908cd877beaf2c6c5a9)
+### Day 18: October 26, 2017 [code](https://github.com/kentaro0919/polls_for_100-days-of-code/commit/9111a99bf6ba0afda4493908cd877beaf2c6c5a9)
 
 **Thoufhts:** how can inline has inlene in admin??
 
 **Todays's Progress** add models to recipe app
+
+
+### Day 19: October 27, 2017
+
+**Todays's Progress**  add more model
+
+
+### Day 20: October 28, 2017
+
+**Thoufhts:** The app will need some kind of web or native app as the user have no PC or Mac but iPhone.
+
+**Todays's Progress**  try to use [PyCharm](https://www.jetbrains.com/pycharm/)
+
+
+### Day 21: October 29, 2017
+
+**Todays's Progress** add [django-rest](http://www.django-rest-framework.org/) and made 2 shimple end point.
+
+
+### Day 22: October 30, 2017
+
+**Thoufhts:** Elm looks very prommising but simple to learn.
+
+**Todays's Progress** try some [Elm](http://elm-lang.org/)
 
 
 ### Plans ###
