@@ -163,6 +163,24 @@ add test for pub_date and pass
 **Todays's Progress** try some [Elm](http://elm-lang.org/)
 
 
+### Day 23: October 31, 2017
+
+**Todays's Progress** try some React
+
+
+### Day 24: November 01, 2017
+
+**Thoufhts:** How can I be shure if My Function is Pure.....
+
+**Todays's Progress** lambda lambda lambda
+
+
+### Day 25: November 02, 2017
+
+**Todays's Progress** try [xlsxwriter](http://xlsxwriter.readthedocs.io/index.html)
+
+<!--### Day 26: November 03, 2017 \-->
+
 ### Plans ###
 
 TODO: 
